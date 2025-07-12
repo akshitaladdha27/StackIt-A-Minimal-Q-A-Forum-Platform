@@ -1,2 +1,2 @@
-# StackIt-A-Minimal-Q-A-Forum-Platform
+# StackIt A Minimal Q A Forum Platform
 Oddo hackathon problem statement
